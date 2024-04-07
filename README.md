@@ -11,9 +11,7 @@ This is a basic template for a web service built with [Actix Web](https://actix.
 
 ## Prerequisites
 
-Before you begin, ensure you have met the following requirements:
-
--   Rust installed on your machine. If you don't have Rust installed, you can install it by following the instructions on the [official website](https://www.rust-lang.org/tools/install).
+To use this template, you need Rust installed on your system. If Rust isn't installed yet, follow the installation guide on the [Rust official website](https://www.rust-lang.org/tools/install).
 
 ## Setup
 
